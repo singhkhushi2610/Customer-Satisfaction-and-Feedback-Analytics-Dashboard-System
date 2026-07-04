@@ -1,0 +1,5 @@
+cluster,n_products,avg_price,avg_rating,avg_sentiment,avg_discount,segment_name
+0,540,2945.97,4.21,0.94,28.39,Budget / High-Satisfaction
+2,66,29301.97,4.21,0.98,31.02,Premium / High-Satisfaction
+3,690,1103.5,4.01,0.94,62.59,Budget / At-Risk
+1,54,3268.89,3.85,-0.55,46.19,Premium / At-Risk
